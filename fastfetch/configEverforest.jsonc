@@ -13,7 +13,8 @@
     	"type": "kitty",
     	"height": 14,
     	"padding": {
-    		"top": 3
+    		"top": 3,
+    		"left": 2
     	}
     },
     "display": {
@@ -26,73 +27,78 @@
         {
             "type": "title",
             "color": {
-                "user": "36",  // = color2
+                "user": "dim_blue",  // = color2
                 "at": "38",
-                "host": "36"
+                "host": "dim_blue"
             }
         },
         "break",
         {
             "type": "os",
             "key": " ",
-            "keyColor": "32",  // = color4
+            "keyColor": "dim_cyan",  // = color4
         },
         {
             "type": "kernel",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
+        },
+        {
+            "type": "display",
+            "key": "󰍹 ",
+            "format": "{1}x{2} @ {3}Hz",
+            "keyColor": "dim_cyan"
         },
         {
             "type": "packages",
-            "format": "{} (pacman)",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "shell",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "terminal",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "wm",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "cursor",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "terminalfont",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "uptime",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "datetime",
             "format": "{1}-{3}-{11}",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "media",
             "key": "󰝚 ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         {
             "type": "player",
             "key": " ",
-            "keyColor": "32",
+            "keyColor": "dim_cyan",
         },
         "break",
         {
