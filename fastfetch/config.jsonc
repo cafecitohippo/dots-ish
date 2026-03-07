@@ -12,7 +12,7 @@
     	"type": "builtin",
         "source": "linuxmint_old",
         "color": {"1": "white"},
-        "color": {"2": "cyan"},
+        "color": {"2": "blue"},
     	"height": 8,
     	"padding": {
     		"top": 1,
@@ -27,78 +27,78 @@
         {
             "type": "title",
             "color": {
-                "user": "cyan",  // = color2
+                "user": "blue",  // = color2
                 "at": "38",
-                "host": "cyan"
+                "host": "blue"
             }
         },
         "break",
         {
             "type": "os",
             "key": " ",
-            "keyColor": "blue",  // = color4
+            "keyColor": "cyan",  // = color4
         },
         {
             "type": "kernel",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "display",
             "key": "󰍹 ",
             "format": "{1}x{2} @ {3}Hz",
-            "keyColor": "blue"
+            "keyColor": "cyan"
         },
         {
             "type": "packages",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "shell",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "terminal",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "wm",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "cursor",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "terminalfont",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "uptime",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "datetime",
             "format": "{1}-{3}-{11}",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "media",
             "key": "󰝚 ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         {
             "type": "player",
             "key": " ",
-            "keyColor": "blue",
+            "keyColor": "cyan",
         },
         "break",
         {
