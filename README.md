@@ -17,7 +17,7 @@ Adjusted color theme of [Midnight - Nord Theme](https://raw.githubusercontent.co
 ![discord](screenshots/discord.png)
 
 #### Spotify
-Adjusted color theme of [text](https://github.com/spicetify/spicetify-themes/tree/master/text) theme by [darkthemer](https://github.com/darkthemer). Installation: Follow the installation instructions on the text. Overwrite the color.ini file in ~/.config/spicetify/themes/text. After overwriting the color.ini theme, run "spicetify apply" in terminal.
+Using the [Sleek theme](https://github.com/spicetify/spicetify-themes/tree/master/Sleek) from the Marketplace installed via [Spicetify](https://spicetify.app/).
 ![spotify](screenshots/spotify.png)
 
 #### Kate
