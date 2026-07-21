@@ -10,7 +10,7 @@ Plasma Color Theme: Install in Plasma Color settings.
 
 #### FastFetch
 Installation: Save the config.jsonc and turtwig.png to ~/.config/fastfetch. Prompt is [Tide](https://github.com/IlanCosman/tide) by [IlanCosman](https://github.com/IlanCosman)
-![fastfetch](screenshots/fastfetch.png)
+![fastfetch](screenshots/kitty.png)
 
 #### Discord
 Adjusted color theme of [System24](https://github.com/refact0r/system24) theme by [refact0r](https://github.com/refact0r). Installation: Install [Vencord](https://vencord.dev/) and save the .css file in ~/.config/Vencord/themes and enable in Vencord settings.
