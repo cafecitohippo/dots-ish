@@ -20,14 +20,6 @@ Adjusted color theme of [Midnight - Nord Theme](https://raw.githubusercontent.co
 Using the [Sleek theme](https://github.com/spicetify/spicetify-themes/tree/master/Sleek) from the Marketplace installed via [Spicetify](https://spicetify.app/).
 ![spotify](screenshots/spotify.png)
 
-#### Kate
-Changed the default Dracula theme to match the Everforest Dark Medium theme.
-![kate](screenshots/kate.png)
-
-#### Heroic-Games Launcher
-Adjusted the color theme of the Gruvbox Dark theme. Place the heroic-launcher folder in ~/.config/Heroic/themes and point Heroic to the custom .css file.
-![heroic](screenshots/heroic.png)
-
-#### Monkeytype
-This link will set the colorscheme of Monkeytpe to Everforest. Note, if you have a custom theme, it will overwrite your current theme. [Everforest Dark Medium Theme](https://monkeytype.com?customTheme=eyJjIjpbIiMyMzJhMmUiLCIjYTdjMDgwIiwiIzgzYzA5MiIsIiM5ZGE5YTAiLCIjMmMyZTMxIiwiI2QzYzZhYSIsIiNlNjdlODAiLCIjNTQzYTQ4IiwiI2U2N2U4MCIsIiM1NDNhNDgiXX0=)
-![monkeytype](screenshots/monkey.png)
+#### Firefox
+Firefox home screen using [Bento](https://github.com/migueravila/Bento) from [migueravila](https://github.com/migueravila/)
+![kate](screenshots/firefox.png)
