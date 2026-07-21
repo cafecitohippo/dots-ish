@@ -1,11 +1,11 @@
 # dots-ish
 
-## Dotfiles for my Everforest setup on KDE Plasma 6.
+## Dotfiles for my LMDE 7 Gigi - Nord Theme
 
 ### Screenshots
 
 #### Desktop
-Plasma Color Theme: Install in Plasma Color settings.
+GTK Theme - [Nordic](https://github.com/EliverLara/Nordic) by [EliverLara](https://github.com/EliverLara/)
 ![desktop](screenshots/desktop.png)
 
 #### FastFetch
@@ -13,7 +13,7 @@ Installation: Save the config.jsonc and mamoswine.png to ~/.config/fastfetch. Pr
 ![fastfetch](screenshots/kitty.png)
 
 #### Discord
-Adjusted color theme of [System24](https://github.com/refact0r/system24) theme by [refact0r](https://github.com/refact0r). Installation: Install [Vencord](https://vencord.dev/) and save the .css file in ~/.config/Vencord/themes and enable in Vencord settings.
+Adjusted color theme of [Midnight - Nord Theme](https://raw.githubusercontent.com/refact0r/midnight-discord/refs/heads/master/themes/flavors/midnight-nord.theme.css) theme by [refact0r](https://github.com/refact0r). Installation: Install [Vencord](https://vencord.dev/) and paste link in Online Themes under Vencord Settings.
 ![discord](screenshots/discord.png)
 
 #### Spotify
