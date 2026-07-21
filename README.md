@@ -9,7 +9,7 @@ Plasma Color Theme: Install in Plasma Color settings.
 ![desktop](screenshots/desktop.png)
 
 #### FastFetch
-Installation: Save the config.jsonc and turtwig.png to ~/.config/fastfetch. Prompt is [Tide](https://github.com/IlanCosman/tide) by [IlanCosman](https://github.com/IlanCosman)
+Installation: Save the config.jsonc and mamoswine.png to ~/.config/fastfetch. Prompt is [Tide](https://github.com/IlanCosman/tide) by [IlanCosman](https://github.com/IlanCosman)
 ![fastfetch](screenshots/kitty.png)
 
 #### Discord
