@@ -5,7 +5,7 @@
 ### Screenshots
 
 #### Desktop
-GTK Theme - [Nordic](https://github.com/EliverLara/Nordic) by [EliverLara](https://github.com/EliverLara/)
+GTK Theme - [Nordic](https://github.com/EliverLara/Nordic) by [EliverLara](https://github.com/EliverLara/) -- Dock made using [Plank-Reloaded](https://github.com/zquestz/plank-reloaded) with my [Material-Nord](plank/Material-Nord/dock.theme). Just put this in ~/.local/share/plank/themes/Material-Nord.
 ![desktop](screenshots/desktop.png)
 
 #### FastFetch
